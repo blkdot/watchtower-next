@@ -1,0 +1,139 @@
+.navbar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding:1rem 0;
+    width:100%;
+    z-index: 10 !important;
+
+    .logo{
+        width:20%;
+        margin-left: 50px;
+        cursor: pointer;
+    }
+
+    .menubar{
+        width:45%;
+        display:flex;
+        flex-direction:row;
+        align-items: center;
+        margin-left: 10%;
+        justify-content: flex-end;
+        padding:0 1rem;
+
+        .menuitem{
+            font-family: Montserrat;
+            font-style: normal;
+            font-weight: 500;
+            font-size: 15px;
+            text-align: center;
+            cursor: pointer;
+            margin:0;
+            margin-right:40px;
+            color:#ffffff;
+        }
+        .active{
+            color:#03B8B3;
+            font-family: Montserrat;
+            font-style: normal;
+            font-weight: 700;
+            font-size: 15px;
+            text-align: center;
+            cursor: pointer;
+            margin:0;
+            margin-right:40px;
+        }
+    }
+
+    .popup{
+        position: fixed;
+        top:10%;
+        right:20%;
+        background: #1C1C27;
+        box-shadow: 0px 2px 140px rgba(0, 0, 0, 0.496201);
+        border-radius: 20px;
+        padding: 1rem 2rem;
+        z-index: 10;
+
+        .menuitem{
+            width:100%;
+            font-family: Montserrat;
+            font-style: normal;
+            font-weight: 500;
+            font-size: 15px;
+            text-align: center;
+            cursor:pointer;
+            color:#ffffff;
+            padding:0.7rem 0;
+            z-index: 10;
+
+            &hover{
+                color:#03B8B3;
+            }
+        }
+        .disabled{
+            width:100%;
+            font-family: Montserrat;
+            font-style: normal;
+            font-weight: 500;
+            font-size: 15px;
+            text-align: center;
+            cursor:pointer;
+            padding:0.7rem 0;
+            color: #ADADAD;
+            opacity: 0.5;
+            z-index: 10;
+        }
+    }
+    .buttons{
+        display: flex;
+        flex-direction: row;
+        width:20%;
+        justify-content: space-around;
+
+        .login{
+            background: linear-gradient(0deg, #00C8BA -15.32%, #6F27F9 105.88%, #6F27F9 105.88%);
+            border-radius: 10px;
+            padding:0.4rem 2rem;
+            cursor:pointer;
+            display: flex;
+            align-items: center;
+            text-align: center;
+            font-family: Montserrat;
+            font-style: normal;
+            font-weight: 600;
+            color:#ffffff;
+            font-size: 15px;
+        }
+
+        .subscribe{
+            border-radius: 10px;
+            border:3px solid #00C8BA;
+            padding: 0.4rem 1rem;
+            text-align: center;
+            cursor:pointer;
+
+                .heading{
+                    font-family: Montserrat;
+                    font-style: normal;
+                    font-weight: 600;
+                    font-size: 12px;
+                    text-align: center;
+                    margin:0;
+                    color:#ffffff;
+                }
+                
+                .subheading{
+                    font-family: Montserrat;
+                    font-style: normal;
+                    font-weight: 500;
+                    font-size: 8px;
+                    mix-blend-mode: normal;
+                    opacity: 0.5;
+                    color:#ffffff;   
+                    margin:0;
+                    text-align: center;
+                }
+        }
+    }
+}

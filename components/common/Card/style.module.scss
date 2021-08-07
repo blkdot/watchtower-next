@@ -1,0 +1,117 @@
+.card{
+    background: #1C1C27;
+    box-shadow: 0px 2px 140px rgba(0, 0, 0, 0.496201);
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 1.5rem;
+
+    .description{
+        display: flex;
+        flex-direction: row;
+        width: fit-content;
+        justify-content: flex-start;
+        color:#fff;
+        .logo{
+            width:40px;
+            margin-right: 10px;
+        }
+
+        .name{
+            display: flex;
+            flex-direction: column;
+            justify-content: flex-start;
+            
+            .full{
+                font-family: Montserrat;
+                font-style: normal;
+                font-weight: 600;
+                font-size: 20px;
+                display: flex;
+                align-items: center;
+                color: #FFFFFF;
+            }
+            
+            .short{
+                font-family: Montserrat;
+                font-style: normal;
+                font-weight: 500;
+                font-size: 16px;
+                display: flex;
+                align-items: center;
+                color: #ADADAD;
+            }
+        }
+    }
+
+    .graph{
+        width:100%;
+        margin-top: -8px;  
+        margin-bottom: 5px;  
+    }
+
+    .priceinfo{
+        display: flex;
+        flex-direction: column;
+
+        .subheading{
+            font-family: Montserrat;
+            font-style: normal;
+            font-weight: 500;
+            font-size: 12px;
+            color: #ADADAD;
+
+        }
+
+        .price{
+            display: flex;
+            width: 100%;
+            flex-direction: row;
+            justify-content: space-between;
+
+            .value{
+                min-width: 70px;
+                font-family: Montserrat;
+                font-style: normal;
+                font-weight: 500;
+                font-size: 35px;
+                line-height: 43px;
+                display: flex;
+                align-items: center;
+                color: #FFFFFF;
+            }
+
+            .percent{
+                background: #03B8B3;
+                border-radius: 11px;            
+                font-family: Montserrat;
+                font-style: normal;
+                font-weight: 600;
+                font-size: 12px;
+                margin-top:-15px ;
+                margin-left:15px;
+                padding:4px 8px;
+                height: fit-content;
+                display: flex;
+                align-items: center;
+                text-align: center;
+                color: #FFFFFF;
+            }
+        }
+
+    }
+
+    .redirecttoken{
+        width:100%;
+        font-family: Montserrat;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 15px;
+        display: flex;
+        justify-content: center;
+        color: #03B8B3;
+        margin-top:5px;
+        cursor: pointer;
+    }
+}

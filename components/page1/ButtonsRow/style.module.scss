@@ -1,0 +1,18 @@
+.buttonrow{
+    margin-top: 100px;
+    margin-bottom: 40px;
+    width:75%;
+    display: flex;
+    justify-content: space-around;
+
+    .button{
+        background: linear-gradient(0deg, #00C8BA -15.32%, #6F27F9 105.88%, #6F27F9 105.88%);
+        border-radius: 10px;
+        padding:0.9rem 2rem;
+        font-family: Montserrat;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 15px;
+        line-height: 18px;
+    }
+}

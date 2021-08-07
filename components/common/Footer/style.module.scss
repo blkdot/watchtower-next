@@ -1,0 +1,42 @@
+.footer{
+    display: flex;
+    width:100%;
+    flex-direction:row;
+    align-items:center;
+    justify-content:space-around;
+    padding: 1rem 2rem;
+    background: #141416;
+
+    .footerlogo{
+
+    }
+
+    .mail{
+        font-weight: 500;
+        color:#ffffff;
+        .link{
+            text-decoration: none;
+            color:#00BAAD;
+            font-weight: 400;
+        }
+    }
+
+    .social{
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        font-weight: 500;
+
+        .heading{
+            margin-right: 5px;
+            font-weight: 500;
+            color: #ffffff;
+        }
+
+        .icon{
+            color:#fff;
+            margin:0rem 0.2rem;
+        }
+    }
+}

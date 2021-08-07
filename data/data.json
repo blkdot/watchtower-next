@@ -1,0 +1,39 @@
+{
+    "team":[
+        {
+            "name":"Joseph Faker",
+            "image":"/assets/JosephFaker.png",
+            "post":"CEO & Smart Contract Specialist"
+        },
+        {
+            "name":"Elon Wario",
+            "image":"/assets/Team1.png",
+            "post":"Data Analyst & API Integration Specialist"
+        },
+        {
+            "name":"FreezyEx",
+            "image":"/assets/FreezyEX.png",
+            "post":"Smart Contract & Blockchain Expert"
+        },
+        {
+            "name":"Eddy Shillz & Bel B",
+            "image":"/assets/Team1.png",
+            "post":"Marketing Team"
+        },
+        {
+            "name":"",
+            "image":"",
+            "post":""
+        },
+        {
+            "name":"Abhijeet Chatterjee",
+            "image":"/assets/Team1.png",
+            "post":"Full Stack Website Developer"
+        },
+        {
+            "name":"Project Managers",
+            "image":"/assets/Team1.png",
+            "post":"Project Manager & Developers"
+        }
+    ]
+}

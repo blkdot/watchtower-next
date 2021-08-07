@@ -1,0 +1,53 @@
+.aboutus{
+    display: flex;
+    flex-direction: row;
+    width:70%;
+    justify-content: center;
+    align-items: center;
+
+    .left{
+        flex:0.6;
+        padding: 0.5rem 2rem;
+    }
+
+    .right{
+        flex:0.4;
+        padding: 0 1rem;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: center;
+
+        .heading{
+            font-family: Montserrat;
+            font-style: normal;
+            font-weight: 800;
+            font-size: 30px;
+            color: #FFFFFF;
+            margin-bottom: 15px;
+        }
+
+        .content{
+            font-family: Montserrat;
+            font-style: normal;
+            font-weight: 500;
+            font-size: 15px;
+            color: #ADADAD;
+            margin:0;
+            margin-bottom:15px;
+        }
+
+        .readmore{
+            font-family: Montserrat;
+            font-style: normal;
+            font-weight: bold;
+            font-size: 15px;
+            display: flex;
+            align-items: center;
+            color: #04C2BC;
+            margin: 0;
+            margin-top: -10px;
+            cursor: pointer;
+        }
+    }
+}

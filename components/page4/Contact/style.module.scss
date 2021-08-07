@@ -1,0 +1,52 @@
+.contact{
+    width:65%;
+    margin:50px 0;
+
+    .important{
+        font-family: Montserrat;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 20px;
+        margin-bottom: 10px;
+    }
+
+    .flex{
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        
+        .notice{
+            width:50%;
+            font-family: Montserrat;
+            font-style: normal;
+            font-weight: 500;
+            font-size: 15px;
+            line-height: 18px;
+            color: #ADADAD;
+            margin-right: 12%;
+        }
+        .contact{
+            width:fit-content;
+            background: linear-gradient(0deg, #00C8BA -15.32%, #6F27F9 105.88%, #6F27F9 105.88%);
+            border-radius: 10px;
+            padding: 0.8rem 1.8rem;
+            font-family: Montserrat;
+            font-style: normal;
+            font-weight: 600;
+            font-size: 15px;
+            margin: 0%;
+            margin-right: 6%;
+            cursor: pointer;
+        }
+
+        .report{
+        font-family: Montserrat;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 15px;
+        line-height: 18px;
+        color: #03B8B3;
+        cursor:pointer;
+        }
+    }
+}

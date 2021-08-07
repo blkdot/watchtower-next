@@ -1,0 +1,25 @@
+.search {
+    border-radius: 5px;
+    background-color: #131315;
+    height: 40px;
+    width: 100%;
+    display: flex;
+    align-items:center;
+    border-radius: 10px;
+  
+  
+    input {
+      font-family: Montserrat;
+      font-style: normal;
+      font-weight: 600;
+      font-size: 15px;
+      color:#fff;
+      font-weight:normal;
+      width: 100%;
+      border: none;
+      padding: 5px 10px;
+      outline: none;
+      mix-blend-mode: normal;
+    }
+  }
+  

@@ -1,0 +1,44 @@
+.routemap{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: center;
+    margin-top: 6rem;
+    margin-bottom: 8rem;
+
+    .left{
+        background: transparent;
+        padding-left: 5%;
+        display: flex;
+        flex-direction:column;
+        align-items: center;
+        justify-content: flex-start;
+        
+        .heading{
+            font-family: Montserrat;
+            font-style: normal;
+            font-weight: 800;
+            font-size: 30px;
+            color: #FFFFFF;
+        }
+
+        .Button{
+            background: linear-gradient(0deg, #00C8BA -15.32%, #6F27F9 105.88%, #6F27F9 105.88%);
+            border-radius: 10px;
+            padding: 0.7rem 2rem;
+            font-family: Montserrat;
+            margin-top: 100%;
+            font-style: normal;
+            font-weight: 600;
+            font-size: 15px;
+            cursor: pointer;
+        }
+    }
+
+    .img{
+        position: relative;
+        margin-left: -5%;
+
+    }
+
+}

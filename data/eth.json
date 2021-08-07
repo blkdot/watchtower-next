@@ -1,0 +1,78 @@
+{
+    "token":{
+        "index":"ETH",
+        "name":"Ethereum",
+        "description":"Ethereum The most Popular meme coin on the planet. Promoted by Elon Musk, Marketcap has reached top 10. If it wasn’t so widely adopted we would warn you against it since it has a mint function and unlimited supply.",
+        "image_url":"https://st3.depositphotos.com/1004573/19291/v/950/depositphotos_192911952-stock-illustration-ethereum-logo-on-transparent-background.jpg",
+        "token_site":"token site url",
+        "risk_rating":"2.5",
+        "reason":"Doge Coin is a well established token with millions of followers.\n Supported by Influencers such as Elon Musk the hype of this token can help generate solid profits, however be cautious in buying in peak as it will also have Volatile movements.\n If the contract wasn’t renounced we would warn you to stay away since a MINT functions allows the dev to mint an unlimited supply.  ",
+        "top_holders":[
+            {
+                "Wallet_Address":"0x642C32bnjk3b45234235b34bfg",
+                "Token":"100,000,000,456.456",
+                "Value($)":"$80,345,235.436",
+                "Value(%)":"80%",
+                "Last Activity":"09.02.2020"
+            },
+            {
+                "Wallet_Address":"0x642C32bnjk3b45234235b34bfg",
+                "Token":"100,000,000,456.456",
+                "Value($)":"$80,345,235.436",
+                "Value(%)":"70%",
+                "Last Activity":"09.02.2020"
+            },
+            
+            {
+                "Wallet_Address":"0x642C32bnjk3b45234235b34bfg",
+                "Token":"100,000,000,456.456",
+                "Value($)":"$80,345,235.436",
+                "Value(%)":"60%",
+                "Last Activity":"09.02.2020"
+            },
+            
+            {
+                "Wallet_Address":"0x642C32bnjk3b45234235b34bfg",
+                "Token":"100,000,000,456.456",
+                "Value($)":"$80,345,235.436",
+                "Value(%)":"50%",
+                "Last Activity":"09.02.2020"
+            },
+            
+            {
+                "Wallet_Address":"0x642C32bnjk3b45234235b34bfg",
+                "Token":"100,000,000,456.456",
+                "Value($)":"$80,345,235.436",
+                "Value(%)":"40%",
+                "Last Activity":"09.02.2020"
+            },
+            
+            {
+                "Wallet_Address":"0x642C32bnjk3b45234235b34bfg",
+                "Token":"100,000,000,456.456",
+                "Value($)":"$80,345,235.436",
+                "Value(%)":"30%",
+                "Last Activity":"09.02.2020"
+            },
+            
+            {
+                "Wallet_Address":"0x642C32bnjk3b45234235b34bfg",
+                "Token":"100,000,000,456.456",
+                "Value($)":"$80,345,235.436",
+                "Value(%)":"20%",
+                "Last Activity":"09.02.2020"
+            },
+            
+            {
+                "Wallet_Address":"0x642C32bnjk3b45234235b34bfg",
+                "Token":"100,000,000,456.456",
+                "Value($)":"$80,345,235.436",
+                "Value(%)":"10%",
+                "Last Activity":"09.02.2020"
+            }
+        ],
+        "graph_data":{
+            
+        }
+    }
+}

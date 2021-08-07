@@ -1,0 +1,19 @@
+.nft{
+    display: flex;
+    width: 100%;
+    justify-content:center;
+    align-items: center;
+    padding-top: 2rem;
+    padding-bottom: 4rem;
+
+    .img{
+        width:50%;
+        display: flex;
+        justify-content:center;
+        align-items: center;
+        padding: 2rem 3rem;
+        background: url(/assets/nft.svg);
+        background-repeat: no-repeat;
+    }
+
+}

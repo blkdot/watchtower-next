@@ -1,0 +1,49 @@
+.header{
+    display: flex;
+    width:100%;
+    justify-content: center;
+    align-items: center;
+    padding-top: 20vh;
+    padding-bottom:15vh;
+    z-index: 1;
+
+
+    .content{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        width:50%;
+        height:fit-content;
+
+        .welcome{
+            font-family: Montserrat;
+            font-style: normal;
+            font-weight: bold;
+            font-size: 25px;
+            text-align: center;
+            color: #FFFFFF;
+            margin:0;
+        }
+
+        .title{
+            font-family: Montserrat;
+            font-style: normal;
+            font-weight: 800;
+            font-size: 65px;
+            text-align: center;
+            color: #FFFFFF;
+            margin:10px 0px;
+        }
+
+        .description{
+            font-family: Montserrat;
+            font-style: normal;
+            font-weight: 500;
+            font-size: 15px;
+            text-align: center;
+            color: #FFFFFF;
+            margin-top: 10px;
+        }
+    }
+}

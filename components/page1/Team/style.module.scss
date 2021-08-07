@@ -1,0 +1,66 @@
+.team{
+    width:70%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 80px;
+
+    .heading{
+        font-family: Montserrat;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 30px;
+        line-height: 37px;
+        text-align: center;
+        color: #FFFFFF;
+        margin-bottom: 70px;
+    }
+
+    .grid{
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+        column-gap: 5rem;
+        row-gap: 2rem;
+
+        .card{
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+
+            .image{
+                margin-bottom: 10px;
+            }
+
+            .name{
+                font-family: Montserrat;
+                font-style: normal;
+                font-weight: bold;
+                font-size: 20px;
+                margin-bottom: 5px;
+            }
+
+            .post{
+                font-family: Montserrat;
+                font-style: normal;
+                font-weight: 500;
+                font-size: 15px;
+                line-height: 18px;
+                text-align: center;
+                color: #ADADAD;
+            }
+        }
+    }
+    .checkall{
+        width:100%;
+        margin-top: 5rem;
+        font-family: Montserrat;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 15px;
+        text-align: center;
+        color: #04C2BC;
+        cursor:pointer;
+    }
+}

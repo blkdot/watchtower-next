@@ -1,0 +1,168 @@
+{
+    "token":{
+        "index":"DOGE",
+        "name":"DogeCoin",
+        "description":"The most Popular meme coin on the planet. Promoted by Elon Musk, Marketcap has reached top 10. If it wasn’t so widely adopted we would warn you against it since it has a mint function and unlimited supply.",
+        "image_url":"https://st3.depositphotos.com/1004573/19291/v/950/depositphotos_192911952-stock-illustration-ethereum-logo-on-transparent-background.jpg",
+        "token_site":"token site url",
+        "risk_rating":"2.5",
+        "reason":"Doge Coin is a well established token with millions of followers.\n Supported by Influencers such as Elon Musk the hype of this token can help generate solid profits, however be cautious in buying in peak as it will also have Volatile movements.\n If the contract wasn’t renounced we would warn you to stay away since a MINT functions allows the dev to mint an unlimited supply.  ",
+        "top_holders":[
+            {
+                "Wallet_Address":"0x642C32bnjk3b45234235b34bfg",
+                "Token":"100,000,000,456.456",
+                "Value$":"$80,345,235.436",
+                "Value":"80%",
+                "LastActivity":"09.02.2020"
+            },
+            {
+                "Wallet_Address":"0x642C32bnjk3b45234235b34bfg",
+                "Token":"100,000,000,456.456",
+                "Value$":"$80,345,235.436",
+                "Value":"70%",
+                "LastActivity":"09.02.2020"
+            },
+            
+            {
+                "Wallet_Address":"0x642C32bnjk3b45234235b34bfg",
+                "Token":"100,000,000,456.456",
+                "Value$":"$80,345,235.436",
+                "Value":"60%",
+                "LastActivity":"09.02.2020"
+            },
+            
+            {
+                "Wallet_Address":"0x642C32bnjk3b45234235b34bfg",
+                "Token":"100,000,000,456.456",
+                "Value$":"$80,345,235.436",
+                "Value":"50%",
+                "LastActivity":"09.02.2020"
+            },
+            
+            {
+                "Wallet_Address":"0x642C32bnjk3b45234235b34bfg",
+                "Token":"100,000,000,456.456",
+                "Value$":"$80,345,235.436",
+                "Value":"40%",
+                "LastActivity":"09.02.2020"
+            },
+            
+            {
+                "Wallet_Address":"0x642C32bnjk3b45234235b34bfg",
+                "Token":"100,000,000,456.456",
+                "Value$":"$80,345,235.436",
+                "Value":"30%",
+                "LastActivity":"09.02.2020"
+            },
+            
+            {
+                "Wallet_Address":"0x642C32bnjk3b45234235b34bfg",
+                "Token":"100,000,000,456.456",
+                "Value$":"$80,345,235.436",
+                "Value":"20%",
+                "LastActivity":"09.02.2020"
+            },
+            
+            {
+                "Wallet_Address":"0x642C32bnjk3b45234235b34bfg",
+                "Token":"100,000,000,456.456",
+                "Value$":"$80,345,235.436",
+                "Value":"10%",
+                "LastActivity":"09.02.2020"
+            }
+        ],
+        "graph_data":{
+            
+        },
+        "transaction":[
+            {
+                "Token":["3.7619","DOGE"],
+                "Price":["$0.87","0.0028 BNB"],
+                "TokenPrice":["$0.2320","Pc v2"],
+                "Time":"9:28:05 PM",
+                "TXHash":"0xb8ed0e816f262a88349721590eedf69765f6a74cfab2a8c40202877aaed0d663",
+                "type":"Sell"
+            },
+            {
+                "Token":["3.7619","DOGE"],
+                "Price":["$0.87","0.0028 BNB"],
+                "TokenPrice":["$0.2320","Pc v2"],
+                "Time":"9:28:05 PM",
+                "TXHash":"0xb8ed0e816f262a88349721590eedf69765f6a74cfab2a8c40202877aaed0d663",
+                "type":"Sell"
+            },
+            {
+                "Token":["3.7619","DOGE"],
+                "Price":["$0.87","0.0028 BNB"],
+                "TokenPrice":["$0.2320","Pc v2"],
+                "Time":"9:28:05 PM",
+                "TXHash":"0xb8ed0e816f262a88349721590eedf69765f6a74cfab2a8c40202877aaed0d663",
+                "type":"Buy"
+            },
+            {
+                "Token":["3.7619","DOGE"],
+                "Price":["$0.87","0.0028 BNB"],
+                "TokenPrice":["$0.2320","Pc v2"],
+                "Time":"9:28:05 PM",
+                "TXHash":"0xb8ed0e816f262a88349721590eedf69765f6a74cfab2a8c40202877aaed0d663",
+                "type":"Buy"
+            },
+            {
+                "Token":["3.7619","DOGE"],
+                "Price":["$0.87","0.0028 BNB"],
+                "TokenPrice":["$0.2320","Pc v2"],
+                "Time":"9:28:05 PM",
+                "TXHash":"0xb8ed0e816f262a88349721590eedf69765f6a74cfab2a8c40202877aaed0d663",
+                "type":"Sell"
+            },
+            {
+                "Token":["3.7619","DOGE"],
+                "Price":["$0.87","0.0028 BNB"],
+                "TokenPrice":["$0.2320","Pc v2"],
+                "Time":"9:28:05 PM",
+                "TXHash":"0xb8ed0e816f262a88349721590eedf69765f6a74cfab2a8c40202877aaed0d663",
+                "type":"Buy"
+            },
+            {
+                "Token":["3.7619","DOGE"],
+                "Price":["$0.87","0.0028 BNB"],
+                "TokenPrice":["$0.2320","Pc v2"],
+                "Time":"9:28:05 PM",
+                "TXHash":"0xb8ed0e816f262a88349721590eedf69765f6a74cfab2a8c40202877aaed0d663",
+                "type":"Buy"
+            },
+            {
+                "Token":["3.7619","DOGE"],
+                "Price":["$0.87","0.0028 BNB"],
+                "TokenPrice":["$0.2320","Pc v2"],
+                "Time":"9:28:05 PM",
+                "TXHash":"0xb8ed0e816f262a88349721590eedf69765f6a74cfab2a8c40202877aaed0d663",
+                "type":"Sell"
+            },
+            {
+                "Token":["3.7619","DOGE"],
+                "Price":["$0.87","0.0028 BNB"],
+                "TokenPrice":["$0.2320","Pc v2"],
+                "Time":"9:28:05 PM",
+                "TXHash":"0xb8ed0e816f262a88349721590eedf69765f6a74cfab2a8c40202877aaed0d663",
+                "type":"Sell"
+            },
+            {
+                "Token":["3.7619","DOGE"],
+                "Price":["$0.87","0.0028 BNB"],
+                "TokenPrice":["$0.2320","Pc v2"],
+                "Time":"9:28:05 PM",
+                "TXHash":"0xb8ed0e816f262a88349721590eedf69765f6a74cfab2a8c40202877aaed0d663",
+                "type":"Sell"
+            },
+            {
+                "Token":["3.7619","DOGE"],
+                "Price":["$0.87","0.0028 BNB"],
+                "TokenPrice":["$0.2320","Pc v2"],
+                "Time":"9:28:05 PM",
+                "TXHash":"0xb8ed0e816f262a88349721590eedf69765f6a74cfab2a8c40202877aaed0d663",
+                "type":"Sell"
+            }
+        ]
+    }
+}

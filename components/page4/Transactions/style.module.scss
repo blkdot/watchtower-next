@@ -1,0 +1,101 @@
+.transactions{
+    width:70%;
+    margin:50px 0;
+
+    .heading{
+        width:100%;
+        font-family: Montserrat;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 30px;
+        line-height: 37px;
+        color: #FFFFFF;
+        text-align: center;
+        margin-bottom: 40px;
+    }
+
+    .transactionsTable{
+        text-align: right;
+        width:100%;
+        margin:25px 0;
+
+        table{
+            border-collapse: collapse;
+            width: 100%;
+            tr:nth-child(even) {background-color: #2c2b2b;}
+        }
+
+        .divider{
+            mix-blend-mode: normal;
+            opacity: 0.1;
+            border: 1px solid #FFFFFF;
+            // margin:5px 0;
+            width:1650%;
+            
+        }
+
+        .headingRow{
+            background-color: #222121;
+            
+            .rowHeader{
+                padding:1rem 0;
+                font-family: Montserrat;
+                font-style: normal;
+                font-weight: 700;
+                font-size: 15px;
+                line-height: 15px;
+                color: #ADADAD;
+            }
+        }
+
+        .dataRow{
+                font-family: Montserrat;
+                font-style: normal;
+                font-weight: 600;
+                font-size: 15px;
+                line-height: 18px;
+                
+            .green{
+                color:#228946;
+
+                .second{
+                    margin-top:-10px;
+                    font-size: 12px;
+                }
+            }
+
+            .red{
+                color:#DC3545;
+                
+                .second{
+                    margin-top:-10px;
+                    font-size: 12px;
+                }
+            }
+
+            .track{
+                color: #3EB8FF;
+                
+                .second{
+                    margin-top:-10px;
+                    font-size: 13px;
+                }
+            }
+        }
+
+    }
+
+    .more{
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        font-family: Montserrat;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 15px;
+        text-align: center;
+        color: #03B8B3;
+        margin-top: 30px;
+        cursor: pointer;
+    }
+}

@@ -1,0 +1,57 @@
+.waitlist{
+    width: 40%;
+    margin-bottom:50px;
+
+    .heading{
+        font-family: Montserrat;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 15px;
+        line-height: 18px;
+    }
+
+    .row{
+        display: flex;
+        width: 100%;
+        flex-direction: row;
+        justify-content:flex-start;
+
+        .input{
+             width: 60%;
+             margin-right: 20px;
+             border:3px solid transparent;
+             border-image: linear-gradient(to bottom, #00C8BA -15.32%, #6F27F9 105.88%, #6F27F9 105.88%);
+             border-image-slice: 5;
+             border-radius: 5px;
+             -webkit-mask: 
+             linear-gradient(#fff 0 0) content-box, 
+             linear-gradient(#fff 0 0);
+        
+            .inputtab{
+                border-radius: 5px;
+                background-color: #131315;
+                height: 40px;
+                font-family: Montserrat;
+                font-style: normal;
+                font-weight: 600;
+                font-size: 15px;
+                color:#fff;
+                font-weight:normal;
+                width:100%;
+                border: none;
+                padding: 5px 10px;
+                outline: none;
+                mix-blend-mode: normal;
+              }
+        }
+
+        .button{
+            background: linear-gradient(0deg, #00C8BA -15.32%, #6F27F9 105.88%, #6F27F9 105.88%);
+            border-radius: 10px;
+            display:flex;
+            justify-content: center;
+            align-items: center;
+            padding: 0 2rem;
+        }
+    }
+}

@@ -1,0 +1,75 @@
+.graph{
+    width:65%;
+    
+    .flexContent{
+        display: flex;
+        width:100%;
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: flex-start;
+        margin:30px 0;
+
+        .tokenData{
+            margin-left:8%;
+            .name{
+                font-family: Montserrat;
+                font-style: normal;
+                font-weight: 500;
+                font-size: 15px;
+                line-height: 18px;
+                color: #ADADAD;
+                margin:10px;
+                }
+            
+                .priceBar{
+                    display: flex;
+                    flex-direction: row;
+
+                .price{
+                    font-family: Montserrat;
+                    font-style: normal;
+                    font-weight: 500;
+                    font-size: 40px;
+                    line-height: 49px;
+                    color:#ffffff;
+                    margin-right: 20px;
+                }
+
+                .percent{
+                    background: #03B8B3;
+                    border-radius: 15px;
+                    font-family: Montserrat;
+                    font-style: normal;
+                    font-weight: 600;
+                    font-size: 12px;
+                    margin-top:-5px;
+                    padding:0.4rem 0.5rem;
+                    height: fit-content;
+                    min-width:50px ;
+                }
+            }
+        }
+
+        .buttonBar{
+            display: flex;
+            flex-direction: row;
+            justify-content: center;
+            align-items: center;
+
+            .active{
+                background: #03B8B3;
+                padding:0.5rem 0.9rem;
+                border-radius: 30px;
+                margin:0 5px;
+                cursor: pointer;
+            }
+            .button{
+                background: #28283B;
+                padding:0.5rem 0.9rem;
+                border-radius: 30px;
+                margin:0 5px;
+                cursor:pointer;
+            }
+        }
+    }
+}

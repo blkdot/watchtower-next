@@ -1,0 +1,54 @@
+.tokenomics{
+    display: flex;
+    flex-direction: row;
+    width:100%;
+    justify-content: center;
+    align-items: center;
+    z-index: 1;
+    margin-top:10vh;
+
+    .left{
+        flex:0.4;
+         padding-right: 4rem;
+    }
+
+    .right{
+        flex:0.35;
+        padding: 0 4rem;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: center;
+
+        .heading{
+            font-family: Montserrat;
+            font-style: normal;
+            font-weight: 800;
+            font-size: 30px;
+            color: #FFFFFF;
+            margin-bottom: 25px;
+        }
+
+        .content{
+            font-family: Montserrat;
+            font-style: normal;
+            font-weight: 500;
+            font-size: 15px;
+            color: #ADADAD;
+            margin:0;
+            margin-bottom:25px;
+        }
+
+        .readmore{
+            font-family: Montserrat;
+            font-style: normal;
+            font-weight: bold;
+            font-size: 15px;
+            display: flex;
+            align-items: center;
+            color: #04C2BC;
+            margin: 0;
+            cursor: pointer;
+        }
+    }
+}

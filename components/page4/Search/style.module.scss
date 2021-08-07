@@ -1,0 +1,48 @@
+.home{
+    display: flex;
+    width:100%;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 0;
+    margin-bottom: 20px;
+
+    .content{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        width:50%;
+        height:fit-content;
+
+        .searchbar{
+            margin-top: 30px;
+            background: #1C1C27;
+            box-shadow: 0px 20px 80px rgba(4, 194, 188, 0.293476);
+            border-radius: 10px;
+            padding:0.5rem 0.5rem;
+            display: flex;
+            flex-direction: row;
+            justify-content: space-between;
+            align-items: center;
+            width: 90%;
+            border:3px solid #00C8BA;
+            
+            .button{
+                flex:0.25;
+                background: linear-gradient(0deg, #00C8BA -15.32%, #6F27F9 105.88%, #6F27F9 105.88%);
+                border-radius: 10px;
+                font-family: Montserrat;
+                font-style: normal;
+                font-weight: 600;
+                font-size: 15px;
+                display: flex;
+                justify-content: center;
+                text-align: center;
+                color: #FFFFFF;
+                height:max-content;
+                padding:0.8rem 0;
+                cursor: pointer;
+            }
+        }
+    }
+}
